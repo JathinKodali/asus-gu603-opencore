@@ -1,0 +1,13 @@
+{
+  "basis": "Trial13 archived config; not the current boot EFI",
+  "cleared_fields": [
+    "/Misc/Security/PasswordHash",
+    "/Misc/Security/PasswordSalt",
+    "/PlatformInfo/Generic/MLB",
+    "/PlatformInfo/Generic/ROM",
+    "/PlatformInfo/Generic/SystemSerialNumber",
+    "/PlatformInfo/Generic/SystemUUID"
+  ],
+  "complete_efi": false,
+  "boot_tested": false
+}

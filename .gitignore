@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+*.panic
+config.plist
+EFI/OC/config.plist
